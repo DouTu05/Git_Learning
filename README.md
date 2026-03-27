@@ -15,5 +15,7 @@ You can watch the detailed video tutorials by visiting the following website:
 - [x] 4. 工作区域和工作状态
 - [x] 5. 添加和提交文件
 - [x] 6. git reset回退版本
-- [ ] 7. 使用git diff查看差异
+- [x] 7. 使用git diff查看差异
+- [x] 8. 使用git rm删除文件
+- [ ] 9. gitignore忽略文件
 
