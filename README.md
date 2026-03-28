@@ -17,5 +17,5 @@ You can watch the detailed video tutorials by visiting the following website:
 - [x] 6. git reset回退版本
 - [x] 7. 使用git diff查看差异
 - [x] 8. 使用git rm删除文件
-- [ ] 9. gitignore忽略文件
+- [x] 9. gitignore忽略文件
 
