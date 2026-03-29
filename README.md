@@ -18,4 +18,7 @@ You can watch the detailed video tutorials by visiting the following website:
 - [x] 7. 使用git diff查看差异
 - [x] 8. 使用git rm删除文件
 - [x] 9. gitignore忽略文件
+- [x] 10. 关联本地仓库和远程仓库.md
+- [x] 11. 分支的简介和基本操作.md
+- [ ] 12. 解决合并冲突.md
 
