@@ -20,5 +20,6 @@ You can watch the detailed video tutorials by visiting the following website:
 - [x] 9. gitignore忽略文件
 - [x] 10. 关联本地仓库和远程仓库.md
 - [x] 11. 分支的简介和基本操作.md
-- [ ] 12. 解决合并冲突.md
+- [x] 12. 解决合并冲突.md
+- [x] 13. 回退和rebase.md
 
